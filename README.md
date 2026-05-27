@@ -20,10 +20,12 @@ Si esta ejecutando en un entorno de Kaggle
    https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset
 4. Subir el archivo YarKenneth_ex1bim_ir26a.ipynb
 5. Ejecutar todas las celdas en orden
+
 Si esta ejecutando en local:
 1. Descargue el Dataset desde: https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset
 2. Colocar rotten_tomatoes_movies.csv y rotten_tomatoes_critic_reviews.csv en la misma carpeta del ipynb
 3. Ejecutar todas las celdas
+
 ## Modelos utilizados
 - all-MiniLM-L6-v2 (384 dimensiones)
 - all-mpnet-base-v2 (768 dimensiones)
