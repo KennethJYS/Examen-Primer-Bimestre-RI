@@ -12,8 +12,10 @@ Rotten Tomatoes Movies and Critic Reviews Dataset
 Disponible en: https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset
 
 ## Cómo ejecutar
-
-Si esta ejecutando en un entorno de Kaggle
+1. Instalar dependencias:
+   pip install -r requirements.txt
+   
+Si esta ejecutando en un entorno de Kaggle:
 1. Ir a https://www.kaggle.com y crear una cuenta si no tiene una
 2. Crear un nuevo notebook
 3. Agregar el dataset desde:
